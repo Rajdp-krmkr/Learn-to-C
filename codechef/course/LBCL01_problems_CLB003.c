@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-int main() {
+int main() { 
 
   printf("I love C");
 
